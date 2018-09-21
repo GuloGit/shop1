@@ -1,0 +1,8 @@
+{
+  "require": {
+    "php" : ">=7.0.0"
+  },
+  "autoload": {
+    "classmap" : ["controllers/", "libs/", "models/"]
+  }
+}
